@@ -21,7 +21,7 @@ I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" style="position: relative; top: 3px;"/>
 
-- 👨🏽‍💻 I’m currently working on [SaveSmall.org](https://github.com/Ilnicki010/support-local-businesses-app)
+- 👨🏽‍💻 I’m currently working on a personal side project [The Food Network]
 - 🌱 I’m currently learning Database transaction, Node.js and Adobe Illustrator
 - 🤔 I’m looking for help with Multitier architecture, Business Intelligence, Cloud computing concepts
 - 📫 Reach out to me at: nischalshresthaaa@gmail.com
