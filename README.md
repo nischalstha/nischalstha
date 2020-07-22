@@ -22,7 +22,7 @@ Hi, I'm Nischal Shrestha, a Front End Developer 🚀 currently based in St. Loui
 - 🌱 I’m currently learning Database transaction, Node.js and Adobe Illustrator; 
 - 🤔 I’m looking for help with Multitier architecture, Business Intelligence, Cloud computing concepts 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I was born and raised in Kathmandu Nepal. <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0007.gif" width="30"border="0" alt="animated-nepal-flag-image-0007"/></a>
+- ⚡️ Fun-Fact: I was born and raised in Kathmandu Nepal. <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0007.gif" width="30"></a>
 - 📫 How to reach me: nischalshresthaaa@gmail.com;
 
 **Stuffs I use (Languages,Tools and Others):**  
