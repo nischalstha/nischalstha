@@ -17,8 +17,7 @@ Hi, I'm Nischal Shrestha, a Front End Developer 👨‍🎨 currently based in S
 I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0007.gif" width="30"> I moved to United States 🇺🇸 in 2014 when I was just 18 years old. Being away from home at a young age, I learned that life is way more expensive 💰 than I thought and I needed to be independent and responsible. I also found out that freedom is way scarier than it is perceived to be but I learned to be courageous and take risks.
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 - 👨🏽‍💻 I’m currently working on [SaveSmall.org](https://github.com/Ilnicki010/support-local-businesses-app)
@@ -46,7 +45,4 @@ I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.
 <code><img height="20" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/trello_plain_logo_icon_146319.png"></code>
 
-
 [![Nischal's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=nischalstha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
