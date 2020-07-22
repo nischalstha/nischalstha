@@ -19,7 +19,7 @@ I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="60"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="600"/>
 
 - 👨🏽‍💻 I’m currently working on a personal side project [The Food Network]
 - 🌱 I’m currently learning Database transaction, Node.js and Adobe Illustrator
