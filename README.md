@@ -21,10 +21,10 @@ I was born and raised in Kathmandu, Nepal <img src="https://www.animatedimages.o
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="375"/>
 
--  I’m currently working on a personal side project - [The Food Network]
--  I’m currently learning Database transaction, Node.js and Adobe Illustrator
--  I’m looking for help with Multitier architecture, Business Intelligence, Cloud computing concepts
--  Reach out to me at: nischalshresthaaa@gmail.com
+-  🔭 I’m currently working on a personal side project - [The Food Network]
+-  🌱 I’m currently learning Database transaction, Node.js and Adobe Illustrator
+-  🤔 I’m looking for help with Multitier architecture, Business Intelligence, Cloud computing concepts
+-  📫 Reach out to me at: nischalshresthaaa@gmail.com
 - 💬 Ask me about anything, I am happy to help
 
 **Stuffs I use (Languages,Tools and Others):**  
