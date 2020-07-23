@@ -63,5 +63,5 @@ I was born and raised in Kathmandu, Nepal <img src="https://www.animatedimages.o
 </a>    
 <a href="https://github.com/nischalstha/nischalstha.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nischalstha&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nischalstha&repo=nischalstha.github.io&theme=radical" />
 </a>
