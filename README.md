@@ -1,10 +1,10 @@
-<h2> Hi! I'm <a href="https://nischalstha.github.io/">Nischal</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+<h2> Hi! I'm <a href="https://nischalstha.github.io/" target="_blank">Nischal</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
 
 <br/>
-<a href="https://www.linkedin.com/in/nischalstha">
+<a href="https://www.linkedin.com/in/nischalstha" target="_blank">
   <img align="left" alt="Nischal's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/nischalshresthaa/">
+<a href="https://www.instagram.com/nischalshresthaa/" >
   <img align="left" alt="Nischal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm Nischal Shrestha, a Front End Developer currently based in St. Louis, MO. I'm working with <a href="https://in10t.ag/">IN10T.ag</a>. I graduated from <a href="https://truman.edu/">Truman State University</a> with a major in Computer Science. I love to experiment with graphics and interactivity. 
+Hi, I'm Nischal Shrestha, a Front End Developer currently based in St. Louis, MO. I'm working with <a href="https://in10t.ag/" target="_blank">IN10T.ag</a>. I graduated from <a href="https://truman.edu/" target="_blank">Truman State University</a> with a major in Computer Science. I love to experiment with graphics and interactivity. 
 
 I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0007.gif" width="20"> I moved to United States in 2014 when I was just 18 years old. Being away from home at a young age, I learned that life is way more expensive than I thought and I needed to be independent and responsible. I also found out that freedom is way scarier than it is perceived to be but I learned to be courageous and take risks.
 <br/>
