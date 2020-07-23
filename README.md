@@ -48,3 +48,20 @@ I was born and raised in Kathmandu, Nepal <img src="https://www.animatedimages.o
 
 
 [![Nischal's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=nischalstha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/nischalstha/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nischalstha&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/nischalstha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nischalstha&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/nischalstha/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nischalstha&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/nischalstha/nischalstha.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nischalstha&repo=anuraghazra.github.io&theme=radical" />
+</a>
