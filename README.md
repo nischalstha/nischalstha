@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm Nischal Shrestha, a Front End Developer currently based in St. Louis, MO. I'm working with <a href="https://in10t.ag/">IN10T.ag</a>. I graduated from <a href="https://truman.edu/">Truman State University <img src="https://tmn.truman.edu/wp-content/uploads/2020/03/unnamed.jpg" width="30"> </a> with a major in Computer Science. I love to experiment with graphics and interactivity. 
+Hi, I'm Nischal Shrestha, a Front End Developer currently based in St. Louis, MO. I'm working with <a href="https://in10t.ag/">IN10T.ag</a>. I graduated from <a href="https://truman.edu/">Truman State University</a> with a major in Computer Science. I love to experiment with graphics and interactivity. 
 
 I was born and raised in Kathmandu, Nepal. <img src="https://www.animatedimages.org/data/media/839/animated-nepal-flag-image-0007.gif" width="20"> I moved to United States in 2014 when I was just 18 years old. Being away from home at a young age, I learned that life is way more expensive than I thought and I needed to be independent and responsible. I also found out that freedom is way scarier than it is perceived to be but I learned to be courageous and take risks.
 <br/>
