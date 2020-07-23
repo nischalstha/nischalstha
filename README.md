@@ -1,4 +1,4 @@
-<h2> <img src="http://gph.is/2potYR2" width="50"> I'm <a href="https://nischalstha.github.io/">Nischal</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> <img src="https://media.giphy.com/media/pj30mdklB3FaaoFoOv/giphy.gif" width="50"> I'm <a href="https://nischalstha.github.io/">Nischal</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <br/>
 <a href="https://www.linkedin.com/in/nischalstha">
